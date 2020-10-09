@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902392355463",
+    "firebase_url": "https://findahealthspecialist.firebaseio.com",
+    "project_id": "findahealthspecialist",
+    "storage_bucket": "findahealthspecialist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902392355463:android:cd58d3c9bb72297367b622",
+        "android_client_info": {
+          "package_name": "com.ladit.findahealthspecialist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902392355463-b0r0sl7f6omrdbu7vlais09gfqi6u9oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaCaY-KmAuEbhs_Q06dO9HjDp1c9UO6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902392355463-b0r0sl7f6omrdbu7vlais09gfqi6u9oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
